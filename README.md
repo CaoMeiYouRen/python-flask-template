@@ -28,6 +28,12 @@ export PYTHON_ENV='production'  # Linux
 gunicorn app:app -p app.pid -b 0.0.0.0:80 -w 2
 ```
 
+## 测试
+
+```sh
+pytest
+```
+
 ## 作者
 
 
