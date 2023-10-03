@@ -1,0 +1,7 @@
+__pycache__
+/venv
+/tmp
+/outputs
+/log
+/.idea
+/.vscode
